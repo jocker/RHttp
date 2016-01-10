@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RHttp.iml" filepath="$PROJECT_DIR$/RHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RHttpCompiler/RHttpCompiler.iml" filepath="$PROJECT_DIR$/RHttpCompiler/RHttpCompiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RHttpLib/RHttpLib.iml" filepath="$PROJECT_DIR$/RHttpLib/RHttpLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
